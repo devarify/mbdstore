@@ -1,0 +1,16 @@
+Tugas Besar matakuliah Model Bisnis Digital
+Pada tugas besar ini, kami mengimplementasikan e-commerce pada server azure.
+berikut adalah url tugas besar MBD: http://20.184.24.128/
+
+----------------------------------------------
+
+Arif Yulianto 			| 1301168560
+Novalisma Nur Khakimah 		| 1301168523
+Louisten Novandi T Manalu 	| 1301178132
+Yolanda Simamora 		| 1301178578
+--------------------------------
+Kelas Model Bisnis Digital
+IF-40-Gabungan
+----------------------------------------------
+
+Petunjuk installasi ada pada laporan Tugas Besar MBD
